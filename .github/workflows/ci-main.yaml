@@ -9,3 +9,4 @@ jobs:
     uses: vsaitejasgitorg/github-actions-reusable/.github/workflows/ci-main.yaml@main
     with:
       component_name: frontend
+      app_type: nginx
